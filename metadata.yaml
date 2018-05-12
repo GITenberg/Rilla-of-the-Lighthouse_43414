@@ -1,0 +1,35 @@
+_repo: Rilla-of-the-Lighthouse_43414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43414-h/images/cover.jpg
+creator:
+  author:
+    agent_name: North, Grace May
+    birthdate: 1876
+    gutenberg_agent_id: '41476'
+    url: http://www.gutenberg.org/2009/agents/41476
+    wikipedia: http://www.gutenberg.org/browse/authors/n#a41818
+description: '"Her mother died when she was born, but Rilla''s grandfather, an old
+  lighthouse keeper, never told her father about the child. When her grandfather dies,
+  Dr. Lem, his boyhood friend, sends Rilla to school. Gene, a boy she has known in
+  her island home, goes to England and becomes the friend of a great nobleman. When
+  an Irish shipmate of the grandfather writes to an address found in the old man''s
+  iron box, the lord is disclosed as Rilla''s father"--Jacket.'
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcsh 'Lighthouses -- Juvenile fiction'
+- !lcsh 'Reunions -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Identity (Philosophical concept) -- Juvenile fiction'
+title: Rilla of the Lighthouse
+url: http://www.gutenberg.org/ebooks/43414
